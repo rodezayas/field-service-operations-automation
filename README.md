@@ -12,7 +12,7 @@ Field technicians, dispatchers, and operational leaders were coordinating work o
 
 This created delays, inconsistent evidence validation, duplicated communication, and limited visibility into activity completion.
 
-The workflow centralizes the process and guides each participant through a controlled operational sequence.
+The workflow centralizes the process and guides each participant through a controlled operational sequence. An instead of having a human in the loop validating everything by hand, now AI does the job. 
 
 ---
 
