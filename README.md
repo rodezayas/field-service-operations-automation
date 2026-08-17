@@ -5,7 +5,9 @@
 This n8n workflow automates the full lifecycle of field service work orders via **WhatsApp** and **AI-powered evidence validation**. A field technician initiates a work order by sending its number over WhatsApp; the system validates the order and the user's authorization, then guides the technician through each pending activity — collecting photo or text evidence, validating it via **GPT-4o vision** or a human **agent**, uploading results to **Zoho FSM**, and recording completion status in the **Internal System**. Once all activities are done, a final PDF report is distributed to the operational leader and dispatcher.
 
 ---
+![Project Screenshot](Field Service Opertions - n8n.jpg)
 
+---
 ## Business Problem
 
 Field technicians, dispatchers, and operational leaders were coordinating work order execution manually across WhatsApp, internal systems, and Zoho FSM.
